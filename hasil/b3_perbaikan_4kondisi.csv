@@ -1,0 +1,9 @@
+kondisi,kelas,citra,metode,KB_awal,KB_akhir
+Gelap,Berat,teh_042.png,cerah,3.39,3.39
+Gelap,Ringan,teh_022.png,cerah,3.76,3.76
+Terang,Berat,teh_043.png,gelap,3.93,3.93
+Terang,Ringan,teh_023.png,gelap,3.03,3.03
+Kontras rendah,Berat,teh_044.png,regang,3.18,3.39
+Kontras rendah,Ringan,teh_024.png,regang,1.61,1.69
+Bayangan,Berat,teh_045.png,clahe,1.01,1.72
+Bayangan,Ringan,teh_025.png,clahe,2.03,2.22
